@@ -7,6 +7,8 @@
 ## My Github stats :
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=harindujayakody&show_icons=true&theme=default#gh-light-mode-only)]
 
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+
 <!--
 **harindujayakody/harindujayakody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
