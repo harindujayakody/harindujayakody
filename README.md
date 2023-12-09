@@ -1,8 +1,10 @@
 ![banner](https://github.com/harindujayakody/harindujayakody/assets/9878813/1622251d-47b2-43c6-a657-7bef922ea3b5)
 
 
-### Hi there 👋
+# Hi there 👋
 ![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen)
+
+## My Github stats :
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=harindujayakody&show_icons=true&theme=default#gh-light-mode-only)]
 
 <!--
