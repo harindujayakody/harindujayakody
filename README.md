@@ -21,7 +21,7 @@
   <a href="https://github.com/KavidiDeSilva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harindujayakody&theme=dracula"/>
   </a>
-  <span style="margin-left: 5px;"></span>
+  <span style="margin-left: 10px;"></span>
   <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harindujayakody&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
