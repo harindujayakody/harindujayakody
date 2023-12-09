@@ -1,7 +1,9 @@
 ![banner](https://github.com/harindujayakody/harindujayakody/assets/9878813/1622251d-47b2-43c6-a657-7bef922ea3b5)
 
+<h2 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I’m Harindu.
+</h2>
 
-# Hi there 👋
 ![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen)
 
 ## My Github stats :
