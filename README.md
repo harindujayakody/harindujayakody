@@ -17,12 +17,12 @@
 
 ## My Github stats :
 
-<div align="center" >
+<div align="right" >
   <a href="https://github.com/KavidiDeSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harindujayakody&theme=dracula"/>
 </div>
 
-<div align="center" >
+<div align="left" >
   <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harindujayakody&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
