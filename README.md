@@ -15,7 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) [![GitHub latest commit](https://badgen.net/github/last-commit/harindujayakody/README.md)](https://GitHub.com/harindujayakody/README.md/commit/)
 
-## My Github stats :
+## My Github stats 🎉:
 
 <p align="center">
   <a href="https://github.com/KavidiDeSilva">
