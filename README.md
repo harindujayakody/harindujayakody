@@ -7,9 +7,12 @@
 ![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## My Github stats :
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=harindujayakody&show_icons=true&theme=default#gh-light-mode-only)]
 
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+<div align="center" >
+<a href="https://github.com/harindujayakody">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harindujayakody&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harindujayakody&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 🤝🏻  Connect with Me
 
