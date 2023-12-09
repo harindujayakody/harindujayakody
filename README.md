@@ -17,9 +17,6 @@
 [![Linkedin: harindu](https://img.shields.io/badge/-harindujay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harindujay/)](https://www.linkedin.com/in/harindujay)
 ![GitHub followers](https://img.shields.io/github/followers/harindujayakody?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://ekathuwa.org/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
 
 ## 🛠️ My Github stats
 
