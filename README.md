@@ -13,7 +13,7 @@
 - 🖥️ Portfolio [link](https://webflow.io/).
 <br>
 
-![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) [![GitHub latest commit](https://badgen.net/github/last-commit/harindujayakody/README.md)](https://GitHub.com/harindujayakody/README.md/commit/)
+![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ## 🛠️ My Github stats
 
@@ -28,6 +28,9 @@
 
 ## 🤝🏻 Connect with Me
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!--
 **harindujayakody/harindujayakody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
