@@ -13,7 +13,7 @@
 - 🖥️ Portfolio [link](https://webflow.io/).
 <br>
 
-![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/harindujayakody?tab=repositories) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/harindujayakody?tab=repositories) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## 🛠️ My Github stats
 
