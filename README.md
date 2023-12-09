@@ -13,17 +13,16 @@
 - 🖥️ Portfolio [link](https://webflow.io/).
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+<a href="https://twitter.com/harindu522" target="_blank">
+    <img alt="Twitter: harindu522" src="https://img.shields.io/twitter/follow/harindu522.svg?style=social" />
+  </a>
+</p>
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/harindujayakody?tab=repositories) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)] [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) (https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)   <a href="https://twitter.com/harindu522" target="_blank">
-    <img alt="Twitter: harindu522" src="https://img.shields.io/twitter/follow/harindu522.svg?style=social" />
-  </a>
-</p>
 
 ## 🛠️ My Github stats
 
