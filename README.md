@@ -18,10 +18,13 @@
 ## My Github stats :
 
 <div align="center" >
-  <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harindujayakody&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/KavidiDeSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harindujayakody&theme=dracula"/>
 </div>
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=harindujayakody&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" >
+  <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harindujayakody&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## 🤝🏻  Connect with Me
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
