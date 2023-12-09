@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/KavidiDeSilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harindujayakody&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harindujayakody&theme=dark"/>
   </a>
   <img height="180em" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harindujayakody&layout=compact&langs_count=7&theme=dark"/>
 </p>
