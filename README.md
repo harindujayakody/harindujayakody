@@ -13,7 +13,7 @@
 - 🖥️ Portfolio [link](https://webflow.io/).
 <br>
 
-![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 
 ## My Github stats :
 
