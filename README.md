@@ -4,6 +4,15 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I’m Harindu.
 </h1>
 
+### 👩‍💻 About Me:  
+- 🌱 A passionate Self-taught UX/UI Engineer
+- 👯 I'm interested in UX/UI and software development, front-end development and digital marketing.
+- 💬 I’m currently learning `React JS`.
+- 🏡'Lives in **Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🖥️ Portfolio [link](https://webflow.io/).
+<br>
+
 ![](https://komarev.com/ghpvc/?username=harindujayakody&color=brightgreen) ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## My Github stats :
