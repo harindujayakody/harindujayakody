@@ -21,7 +21,7 @@
 ## 🛠️ My Github stats
 
 <p align="center">
-  <a href="https://github.com/KavidiDeSilva">
+  <a href="https://github.com/harindujayakody">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harindujayakody&theme=dracula"/>
   </a>
   <span style="margin-left: 10px;"></span>
