@@ -1,21 +1,21 @@
 <div align="center">
 
 # Harindu Jayakody
-### Founder @ [Infiax](https://infiax.com) · Sri Lanka 🇱🇰
+### Software Engineer & Founder @ [Infiax](https://infiax.com)
 
-*Building web applications, browser extensions & developer tools since 2014.*
+*Specializing in full-stack web applications, browser extension development, and automated system utilities.*
 
 <br>
 
-[![Blog](https://img.shields.io/badge/Blog-infiax.com-000?style=flat&logo=ghost&logoColor=fff)](https://infiax.com/blog)
+[![Blog](https://img.shields.io/badge/Blog-infiax.com-000000?style=flat-square&logo=ghost&logoColor=white)](https://infiax.com/blog)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harindujay-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/harindujay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harindujay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harindujay)
 &nbsp;
-[![X](https://img.shields.io/badge/X-@harindu522-1DA1F2?style=flat&logo=x&logoColor=fff)](https://x.com/harindu522)
+[![X](https://img.shields.io/badge/X-@harindu522-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/harindu522)
 &nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-HarinduJX-1877F2?style=flat&logo=facebook&logoColor=fff)](https://www.facebook.com/HarinduJX)
+[![Facebook](https://img.shields.io/badge/Facebook-HarinduJX-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/HarinduJX)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=harindujayakody&color=0969da&style=flat&label=Views)](https://github.com/harindujayakody)
+[![Profile Views](https://komarev.com/ghpvc/?username=harindujayakody&color=0969da&style=flat-square&label=Views)](https://github.com/harindujayakody)
 
 </div>
 
@@ -23,27 +23,27 @@
 
 ---
 
-### 📊 Overview
+### Overview
 
 <!-- STATS-START -->
-⚙️ **55** Repositories &nbsp;•&nbsp; ⭐ **6** Total Stars &nbsp;•&nbsp; 🍴 **3** Total Forks &nbsp;•&nbsp; 🔥 Top Project: [flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover) ⭐ 2
+**55** Repositories &nbsp;|&nbsp; **6** Stars &nbsp;|&nbsp; **3** Forks &nbsp;|&nbsp; Featured: [flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)
 <!-- STATS-END -->
 
 <br>
 
-### ⚡ Featured Projects
+### Featured Projects
 
 <!-- REPOS-START -->
-- **[flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)** `Python` `⭐ 2`  
+- **[flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)** `Python` `★ 2`  
   Google Veo 3 Watermark Remover.
 
-- **[fetches-all-links](https://github.com/harindujayakody/fetches-all-links)** `Python` `⭐ 2`  
+- **[fetches-all-links](https://github.com/harindujayakody/fetches-all-links)** `Python` `★ 2`  
   Here's a simple Python program that fetches all links from a given webpage and saves th...
 
-- **[exclude-bots-from-click-logs-yourls](https://github.com/harindujayakody/exclude-bots-from-click-logs-yourls)** `PHP` `⭐ 1`  
+- **[exclude-bots-from-click-logs-yourls](https://github.com/harindujayakody/exclude-bots-from-click-logs-yourls)** `PHP` `★ 1`  
   Exclude Bots from Click Logs from YOURLS.
 
-- **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `⭐ 1`  
+- **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
   The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
 
 - **[steam-deal-finder](https://github.com/harindujayakody/steam-deal-finder)** `JavaScript`  
@@ -55,19 +55,23 @@
 <!-- REPOS-END -->
 
 <div align="right">
-<sub><a href="https://github.com/harindujayakody?tab=repositories">View all 55 repositories →</a></sub>
+<sub><a href="https://github.com/harindujayakody?tab=repositories">View all public repositories →</a></sub>
 </div>
 
 <br>
 
-### 🛠️ Tech & Tools
+### Tech Stack & Skills
 
-`JavaScript` · `Python` · `PowerShell` · `HTML/CSS` · `PHP` · `Web Extensions` · `PWA`
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,powershell,html,css,php,git,vscode,bash" alt="Tech Stack" />
+  </a>
+</p>
 
 <br>
 
 ---
 
 <div align="center">
-<sub>Crafted with minimalism. Built with open source.</sub>
+<sub>Engineered with precision. Driven by open source.</sub>
 </div>
