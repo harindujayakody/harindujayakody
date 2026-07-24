@@ -26,9 +26,16 @@ def generate_stats_summary(repos):
     total_forks = sum(r.get('forks_count', 0) for r in public_repos)
     
     top_repo = max(public_repos, key=lambda x: (x.get('stargazers_count', 0), x.get('updated_at', ''))) if public_repos else None
-    top_str = f"[{top_repo['name']}]({top_repo['html_url']})" if top_repo else "N/A"
     
-    stats_md = f"**{total_repos}** Repositories &nbsp;|&nbsp; **{total_stars}** Stars &nbsp;|&nbsp; **{total_forks}** Forks &nbsp;|&nbsp; Featured: {top_str}"
+    repo_name_badge = top_repo['name'].replace('-', '--') if top_repo else "N/A"
+    top_url = top_repo['html_url'] if top_repo else "#"
+    
+    stats_md = (
+        f"[![Repositories](https://img.shields.io/badge/Repositories-{total_repos}-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/{USERNAME}?tab=repositories)\n"
+        f"[![Total Stars](https://img.shields.io/badge/Total%20Stars-{total_stars}-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/{USERNAME})\n"
+        f"[![Total Forks](https://img.shields.io/badge/Total%20Forks-{total_forks}-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/{USERNAME})\n"
+        f"[![Featured Project](https://img.shields.io/badge/Featured-{repo_name_badge}-0969da?style=flat-square&logo=github&logoColor=white)]({top_url})"
+    )
     return stats_md
 
 def generate_repos_markdown(repos):
@@ -74,7 +81,7 @@ def update_readme():
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
-    print("README.md updated with software engineer professional theme!")
+    print("README.md updated with badge metrics for Overview!")
 
 if __name__ == "__main__":
     update_readme()

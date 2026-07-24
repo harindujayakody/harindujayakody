@@ -26,7 +26,10 @@
 ### Overview
 
 <!-- STATS-START -->
-**55** Repositories &nbsp;|&nbsp; **6** Stars &nbsp;|&nbsp; **3** Forks &nbsp;|&nbsp; Featured: [flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)
+[![Repositories](https://img.shields.io/badge/Repositories-55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-6-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
+[![Total Forks](https://img.shields.io/badge/Total%20Forks-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
+[![Featured Project](https://img.shields.io/badge/Featured-flow--veo--watermark--remover-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/flow-veo-watermark-remover)
 <!-- STATS-END -->
 
 <br>
