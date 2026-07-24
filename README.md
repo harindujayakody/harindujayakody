@@ -1,7 +1,8 @@
 <div align="center">
 
-# Harindu Jayakody
-### Software Engineer & Founder @ [Infiax](https://infiax.com)
+# Hey 👋, I'm Harindu Jayakody <img src="https://raw.githubusercontent.com/MartinHeinworking/MartinHeinz/master/wave.gif" width="30px" alt="👋">
+
+### Founder @ [Infiax](https://infiax.com) · Sri Lanka 🇱🇰
 
 *Specializing in full-stack web applications, browser extension development, and automated system utilities.*
 
@@ -78,5 +79,5 @@
 ---
 
 <div align="center">
-<sub>Engineered with precision. Driven by open source.</sub>
+<sub>Crafted with minimalism. Built with open source.</sub>
 </div>
