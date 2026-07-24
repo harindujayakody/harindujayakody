@@ -60,13 +60,15 @@
 
 <br>
 
-### Tech Stack & Skills
+### Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,powershell,html,css,php,git,vscode,bash" alt="Tech Stack" />
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
+![PowerShell](https://img.shields.io/badge/-PowerShell-181717?style=flat-square&logo=powershell)
+![PHP](https://img.shields.io/badge/-PHP-181717?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 
 <br>
 
