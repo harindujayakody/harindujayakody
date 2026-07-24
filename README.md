@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋, I'm Harindu Jayakody <img src="https://raw.githubusercontent.com/MartinHeinworking/MartinHeinz/master/wave.gif" width="30px" alt="👋">
+# Hey 👋, I'm Harindu  <img src="https://raw.githubusercontent.com/MartinHeinworking/MartinHeinz/master/wave.gif" width="30px" alt="👋">
 
 ### Founder @ [Infiax](https://infiax.com) · Sri Lanka 🇱🇰
 
