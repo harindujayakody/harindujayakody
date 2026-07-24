@@ -2,7 +2,7 @@
 
 # Hey 👋, I'm Harindu  <img src="https://raw.githubusercontent.com/MartinHeinworking/MartinHeinz/master/wave.gif" width="30px" alt="👋">
 
-### Founder @ [Infiax](https://infiax.com) · Sri Lanka 🇱🇰
+### Founder @ [Infiax](https://infiax.com) ([@Infiax-Labs](https://github.com/Infiax-Labs)) · Sri Lanka 🇱🇰
 
 *Specializing in full-stack web applications, browser extension development, and automated system utilities.*
 
@@ -50,11 +50,11 @@
 - **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
   The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
 
+- **[nic-information-finder](https://github.com/harindujayakody/nic-information-finder)** `JavaScript`  
+  The following NIC converter can do the job easily.
+
 - **[steam-deal-finder](https://github.com/harindujayakody/steam-deal-finder)** `JavaScript`  
   Steam Deal Finder is the ultimate shopping companion for Sri Lankan gamers.
-
-- **[binance-p2p-lkr-rate-live-update](https://github.com/harindujayakody/binance-p2p-lkr-rate-live-update)** `JavaScript`  
-  Live Binance P2P LKR/USDT exchange rates, advertiser listings, calculator, & toolbar ra...
 
 <!-- REPOS-END -->
 
