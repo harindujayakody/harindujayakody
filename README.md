@@ -28,7 +28,7 @@
 
 <!-- STATS-START -->
 [![Repositories](https://img.shields.io/badge/Repositories-55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-6-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Featured Project](https://img.shields.io/badge/Featured-flow--veo--watermark--remover-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/flow-veo-watermark-remover)
 <!-- STATS-END -->
@@ -44,14 +44,14 @@
 - **[fetches-all-links](https://github.com/harindujayakody/fetches-all-links)** `Python` `★ 2`  
   Here's a simple Python program that fetches all links from a given webpage and saves th...
 
+- **[nic-information-finder](https://github.com/harindujayakody/nic-information-finder)** `JavaScript` `★ 1`  
+  The following NIC converter can do the job easily.
+
 - **[exclude-bots-from-click-logs-yourls](https://github.com/harindujayakody/exclude-bots-from-click-logs-yourls)** `PHP` `★ 1`  
   Exclude Bots from Click Logs from YOURLS.
 
 - **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
   The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
-
-- **[nic-information-finder](https://github.com/harindujayakody/nic-information-finder)** `JavaScript`  
-  The following NIC converter can do the job easily.
 
 - **[steam-deal-finder](https://github.com/harindujayakody/steam-deal-finder)** `JavaScript`  
   Steam Deal Finder is the ultimate shopping companion for Sri Lankan gamers.
