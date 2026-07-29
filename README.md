@@ -79,5 +79,5 @@
 ---
 
 <div align="center">
-<sub>Crafted with minimalism. Built with open source.</sub>
+<sub>Made with purpose. Built with open source.</sub>
 </div>
