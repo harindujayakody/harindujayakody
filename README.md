@@ -27,7 +27,7 @@
 ### Overview
 
 <!-- STATS-START -->
-[![Repositories](https://img.shields.io/badge/Repositories-55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-54-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Featured Project](https://img.shields.io/badge/Featured-flow--veo--watermark--remover-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/flow-veo-watermark-remover)
