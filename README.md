@@ -27,7 +27,7 @@
 ### Overview
 
 <!-- STATS-START -->
-[![Repositories](https://img.shields.io/badge/Repositories-54-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Featured Project](https://img.shields.io/badge/Featured-flow--veo--watermark--remover-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/flow-veo-watermark-remover)
@@ -53,8 +53,8 @@
 - **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
   The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
 
-- **[steam-deal-finder](https://github.com/harindujayakody/steam-deal-finder)** `JavaScript`  
-  Steam Deal Finder is the ultimate shopping companion for Sri Lankan gamers.
+- **[video-splitter](https://github.com/harindujayakody/video-splitter)** `Python`  
+  Split Video Pro is a lightweight terminal utility for splitting long videos into smalle...
 
 <!-- REPOS-END -->
 
