@@ -27,10 +27,10 @@
 ### Overview
 
 <!-- STATS-START -->
-[![Repositories](https://img.shields.io/badge/Repositories-55-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
-[![Featured Project](https://img.shields.io/badge/Featured-flow--veo--watermark--remover-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/flow-veo-watermark-remover)
+[![Featured Project](https://img.shields.io/badge/Featured-fetches--all--links-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/fetches-all-links)
 <!-- STATS-END -->
 
 <br>
@@ -38,11 +38,14 @@
 ### Featured Projects
 
 <!-- REPOS-START -->
+- **[fetches-all-links](https://github.com/harindujayakody/fetches-all-links)** `Python` `★ 2`  
+  Here's a simple Python program that fetches all links from a given webpage and saves th...
+
 - **[flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)** `Python` `★ 2`  
   Google Veo 3 Watermark Remover.
 
-- **[fetches-all-links](https://github.com/harindujayakody/fetches-all-links)** `Python` `★ 2`  
-  Here's a simple Python program that fetches all links from a given webpage and saves th...
+- **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
+  The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
 
 - **[nic-information-finder](https://github.com/harindujayakody/nic-information-finder)** `JavaScript` `★ 1`  
   The following NIC converter can do the job easily.
@@ -50,11 +53,8 @@
 - **[exclude-bots-from-click-logs-yourls](https://github.com/harindujayakody/exclude-bots-from-click-logs-yourls)** `PHP` `★ 1`  
   Exclude Bots from Click Logs from YOURLS.
 
-- **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
-  The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
-
-- **[video-splitter](https://github.com/harindujayakody/video-splitter)** `Python`  
-  Split Video Pro is a lightweight terminal utility for splitting long videos into smalle...
+- **[http-status-codes](https://github.com/harindujayakody/http-status-codes)** `HTML`  
+  In the world of HTTP Status Codes with our comprehensive guide.
 
 <!-- REPOS-END -->
 
