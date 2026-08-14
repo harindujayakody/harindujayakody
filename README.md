@@ -28,7 +28,7 @@
 
 <!-- STATS-START -->
 [![Repositories](https://img.shields.io/badge/Repositories-56-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-8-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Featured Project](https://img.shields.io/badge/Featured-fetches--all--links-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/fetches-all-links)
 <!-- STATS-END -->
@@ -44,6 +44,9 @@
 - **[flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)** `Python` `★ 2`  
   Google Veo 3 Watermark Remover.
 
+- **[browser-cache-cleaner-windows](https://github.com/harindujayakody/browser-cache-cleaner-windows)** `PowerShell` `★ 1`  
+  🧹 Clean browser cache & system temp on Windows.
+
 - **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
   The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
 
@@ -52,9 +55,6 @@
 
 - **[exclude-bots-from-click-logs-yourls](https://github.com/harindujayakody/exclude-bots-from-click-logs-yourls)** `PHP` `★ 1`  
   Exclude Bots from Click Logs from YOURLS.
-
-- **[http-status-codes](https://github.com/harindujayakody/http-status-codes)** `HTML`  
-  In the world of HTTP Status Codes with our comprehensive guide.
 
 <!-- REPOS-END -->
 
