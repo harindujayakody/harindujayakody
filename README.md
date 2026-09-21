@@ -27,7 +27,7 @@
 ### Overview
 
 <!-- STATS-START -->
-[![Repositories](https://img.shields.io/badge/Repositories-57-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-58-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-8-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Featured Project](https://img.shields.io/badge/Featured-fetches--all--links-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/fetches-all-links)
