@@ -27,7 +27,7 @@
 ### Overview
 
 <!-- STATS-START -->
-[![Repositories](https://img.shields.io/badge/Repositories-70-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-71-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-10-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-5-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Featured Project](https://img.shields.io/badge/Featured-octopus--agent-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/octopus-agent)
