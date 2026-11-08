@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋, I'm Harindu  <img src="https://raw.githubusercontent.com/MartinHeinworking/MartinHeinz/master/wave.gif" width="30px" alt="👋">
+# Hey 👋, I'm Harindu
 
 ### Founder @ [Infiax](https://infiax.com) ([@Infiax-Labs](https://github.com/Infiax-Labs)) · Sri Lanka 🇱🇰
 
@@ -16,7 +16,6 @@
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-HarinduJX-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/HarinduJX)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=harindujayakody&color=0969da&style=flat-square&label=Views)](https://github.com/harindujayakody)
 
 </div>
 
