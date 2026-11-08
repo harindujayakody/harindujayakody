@@ -27,7 +27,7 @@
 ### Overview
 
 <!-- STATS-START -->
-[![Repositories](https://img.shields.io/badge/Repositories-73-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-71-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-10-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-5-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Featured Project](https://img.shields.io/badge/Featured-octopus--agent-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/octopus-agent)
@@ -47,14 +47,14 @@
 - **[flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)** `Python` `★ 2`  
   Google Veo 3 Watermark Remover.
 
-- **[browser-cache-cleaner-windows](https://github.com/harindujayakody/browser-cache-cleaner-windows)** `PowerShell` `★ 1`  
-  🧹 Clean browser cache & system temp on Windows.
-
-- **[deep-link](https://github.com/harindujayakody/deep-link)** `PHP` `★ 1`  
-  The Deeplink Generator provides marketers with fully-formed deep link URLs that work fo...
-
 - **[nic-information-finder](https://github.com/harindujayakody/nic-information-finder)** `JavaScript` `★ 1`  
   The following NIC converter can do the job easily.
+
+- **[exclude-bots-from-click-logs-yourls](https://github.com/harindujayakody/exclude-bots-from-click-logs-yourls)** `PHP` `★ 1`  
+  Exclude Bots from Click Logs from YOURLS.
+
+- **[browser-cache-cleaner-windows](https://github.com/harindujayakody/browser-cache-cleaner-windows)** `PowerShell` `★ 1`  
+  🧹 Clean browser cache & system temp on Windows.
 
 <!-- REPOS-END -->
 
