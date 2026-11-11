@@ -8,7 +8,7 @@
 
 <br>
 
-[![Blog](https://img.shields.io/badge/Blog-infiax.com-000000?style=flat-square&logo=ghost&logoColor=white)](https://harindujayakody.com)
+[![Blog](https://img.shields.io/badge/Blog-harindujayakody.com-000000?style=flat-square&logo=ghost&logoColor=white)](https://harindujayakody.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harindujay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harindujay)
 &nbsp;
