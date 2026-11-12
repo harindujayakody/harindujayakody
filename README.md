@@ -26,10 +26,10 @@
 ### Overview
 
 <!-- STATS-START -->
-[![Repositories](https://img.shields.io/badge/Repositories-49-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-44-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody?tab=repositories)
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-10-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
 [![Total Forks](https://img.shields.io/badge/Total%20Forks-4-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody)
-[![Featured Project](https://img.shields.io/badge/Featured-octopus--agent-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/octopus-agent)
+[![Featured Project](https://img.shields.io/badge/Featured-flow--veo--watermark--remover-0969da?style=flat-square&logo=github&logoColor=white)](https://github.com/harindujayakody/flow-veo-watermark-remover)
 <!-- STATS-END -->
 
 <br>
@@ -37,14 +37,14 @@
 ### Featured Projects
 
 <!-- REPOS-START -->
+- **[flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)** `Python` `★ 2`  
+  Google Veo 3 Watermark Remover.
+
 - **[octopus-agent](https://github.com/harindujayakody/octopus-agent)** `TypeScript` `★ 2`  
   Free, open-source anti-detect browser, Engine-level fingerprint spoofing in Chromium 156.
 
 - **[fetches-all-links](https://github.com/harindujayakody/fetches-all-links)** `Python` `★ 2`  
   Here's a simple Python program that fetches all links from a given webpage and saves th...
-
-- **[flow-veo-watermark-remover](https://github.com/harindujayakody/flow-veo-watermark-remover)** `Python` `★ 2`  
-  Google Veo 3 Watermark Remover.
 
 - **[nic-information-finder](https://github.com/harindujayakody/nic-information-finder)** `JavaScript` `★ 1`  
   The following NIC converter can do the job easily.
